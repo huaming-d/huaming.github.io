@@ -14,8 +14,9 @@
 /coverage
 
 # next.js
+# 需要将构建/build导出/export生成的静态页面推送到远端，export文件在out文件夹下
 /.next/
-/out/
+# /out/
 
 # production
 /build
