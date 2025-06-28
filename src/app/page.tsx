@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <main className="p-8">
-      <h1 className="text-4xl font-bold mb-4">欢迎来到我的个人博客</h1>
+      <h1 className="text-4xl font-bold mb-4">欢迎来到预览页面</h1>
       <p className="text-gray-600">
         这里会分享我的学习笔记、技术文章和生活感悟。
       </p>
